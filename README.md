@@ -2,7 +2,7 @@
 
 <h3>PREETHI A K</h3>
 <h3>212223230156</h3>
-<h3>EX. NO<: 2</h3>
+<h3>EX.NO: 2</h3>
 <h3>08/03/2026</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
